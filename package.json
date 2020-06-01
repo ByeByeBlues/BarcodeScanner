@@ -1,0 +1,13 @@
+{
+	"name":"BarcodeScanner",
+	"version":"0.6.0",
+	"description":"Scans Barcodes.",
+	"cordova":{
+		"id":"com.phonegap.plugins.barcodescanner",
+		"platforms":["android"]
+	},
+	"repository":{
+		"type":"git",
+		"url":"git+https://github.com/ByeByeBlues/BarcodeScanner"
+	}
+}
